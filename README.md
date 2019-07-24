@@ -1,1 +1,1 @@
-"# cs231" 
+# cs231 course assignments
